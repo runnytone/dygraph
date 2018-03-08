@@ -1,5 +1,5 @@
 ---
-title: "dygraphs for R"
+title: "Prject website"
 ---
 
 The dygraphs package is an R interface to the [dygraphs](http://dygraphs.com) JavaScript charting library. It provides rich facilities for charting time-series data in R, including:
